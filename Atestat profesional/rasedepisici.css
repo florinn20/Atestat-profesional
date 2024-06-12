@@ -1,0 +1,47 @@
+#contentabsolut{
+	position:absolute;
+	left:0px;
+	top:880px;
+}
+#content{
+	position:relative;
+	border:1px solid black;
+	width:1320px;
+	height:1350px;
+}
+#navigare{
+	position:absolute;
+	left:100px;
+	top:50px;
+}
+#continut{
+	position:absolute;
+	left:500px;
+	border-left:5px solid black;
+	width:810px;
+	height:1350px;
+	font-family:verdana;
+}
+#continut h1{
+	text-align:center;
+}
+#navigare ul li h1{
+	text-align:center;
+	font-family:verdana;
+}
+#categorieabsolut{
+	position:absolute;
+	left:0px;
+	top:803px;
+}
+#categorie{
+	position:relative;
+	border:1px solid black;
+	width:1320px;
+	height:75px;
+}
+#text{
+	line-height:40px;
+	text-align:center;
+	font-size:20px;
+}

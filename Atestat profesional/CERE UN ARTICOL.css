@@ -1,0 +1,70 @@
+#contactabsolut{
+	position:absolute;
+	left:0px;
+	top:65px;
+}
+#contact{
+	position:relative;
+	border:1px solid black;
+	width:1320px;
+	height:700px;
+	font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+	background: skyblue;
+}
+#wrapper{
+	width:400px;
+	padding:30px;
+	background:white;
+	margin: 0 auto;
+}
+#contact h1{
+	text-align:center;
+}
+#wrapper h2{
+	text-transform:uppercase;
+	color: #e73c3c;
+}
+#wrapper p{
+	color:#222;
+	font-weight:bold;
+}
+#wrapper input[type=text]{
+	width:100%;
+	margin-bottom:15px;
+	padding:5px;
+}
+#wrapper input[type=email]{
+	width:100%;
+	margin-bottom:15px;
+	padding:5px;
+}
+#textarea{
+	width:100%;
+	margin-bottom:15px;
+	padding:5px;
+}
+#wrapper a{
+	text-decoration:none;
+	background: #2ecc71;
+	color: #fff;
+	display:block;
+	padding:10px 15px;
+	text-align:center;
+	font-size:15px;
+}
+#categorieabsolut{
+	position:absolute;
+	left:0px;
+	top:803px;
+}
+#categorie{
+	position:relative;
+	border:1px solid black;
+	width:1320px;
+	height:0px;
+}
+#text{
+	line-height:40px;
+	text-align:center;
+	font-size:20px;
+}

@@ -1,0 +1,53 @@
+#container{
+	position:relative;
+	border: 1px solid red;
+	margin-left: 300px;
+	margin-right: 300px;
+	height:5000px;
+	width: 1320px;
+	Background-color:white;
+}
+#header{
+	position:relative;
+	left:0px;
+	border: 1px solid black;
+	width:1320px;
+	height: 150px;
+}
+#logo{
+	position:absolute;
+	left:0px;
+	height: 200px;
+	width: 400px;
+}
+#imagine{
+	position:absolute;
+}
+#textlogo{
+	position:absolute;
+	left:170px;
+}
+#nav{
+	position:absolute;
+	right:0px;
+	height:100px;
+	width:630px;
+}
+#media{
+	position:absolute;
+	right:0px;
+	bottom:0px;
+	height:100px;
+	width:600px;
+}
+#nav ul li{
+	display: inline-block;
+	margin-left:30px;
+}
+#media ul li{
+	display:inline-block;
+	margin-top:0px;
+}
+body{
+		background-image: url(background.png);
+	}
